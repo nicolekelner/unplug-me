@@ -5,3 +5,20 @@
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{transition:none!important;animation:none!important}}@media print{.site-header,.closing,footer,.article-cta,.guide-grid{display:none}body{background:white;color:black}.article-body{max-width:none}}
 /* Keep rotated decorative artwork inside the page on narrow screens. */
 .hero{overflow:hidden}
+
+/* A quieter opening: one message, one action, and the app illustration. */
+.hero-description{max-width:340px;font-size:21px;line-height:1.5;margin-bottom:30px}
+.hero-art{padding:20px 0}
+.hero-art:before{content:none}
+.hero-art img{transform:none}
+#how-it-works{border-top:1px solid var(--line)}
+@media(max-width:650px){.hero-description{font-size:19px;max-width:300px}.hero-art{padding:8px 10px}.hero-art img{max-height:290px}}
+
+/* Original onboarding illustrations carry the explanation. */
+.illustrated-steps{margin-top:42px;gap:44px}
+.illustrated-steps article{border:0;padding:0;text-align:center}
+.illustrated-steps img{width:100%;height:185px;object-fit:contain;margin:0 auto 28px}
+.illustrated-steps h3{margin-bottom:10px}
+.illustrated-steps p{max-width:260px;margin:0 auto}
+#how-it-works>.text-link{display:table;margin:36px auto 0}
+@media(max-width:650px){.illustrated-steps{gap:38px}.illustrated-steps img{max-width:280px;height:145px;margin-bottom:20px}}
