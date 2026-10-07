@@ -22,3 +22,15 @@
 .illustrated-steps p{max-width:260px;margin:0 auto}
 #how-it-works>.text-link{display:table;margin:36px auto 0}
 @media(max-width:650px){.illustrated-steps{gap:38px}.illustrated-steps img{max-width:280px;height:145px;margin-bottom:20px}}
+
+/* Blog: shared typography, quiet cards, readable articles. */
+.blog-home-link{text-align:center;margin:38px 0 0}
+.blog-intro{padding-top:80px;padding-bottom:60px;border-bottom:1px solid var(--line)}
+.blog-intro h1{max-width:800px}.blog-intro>p:last-child{max-width:590px;font-size:22px;line-height:1.5}
+.blog-list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:0 42px;padding-top:28px;padding-bottom:70px}
+.blog-card{padding:34px 0 38px;border-bottom:1px solid var(--line);display:flex;flex-direction:column;align-items:start}
+.blog-card .eyebrow{color:var(--olive);margin-bottom:14px}.blog-card h2{font-size:29px;letter-spacing:-.8px;line-height:1.25;margin-bottom:13px}.blog-card h2 a{text-decoration:none}.blog-card h2 a:hover{text-decoration:underline}
+.blog-card>p:not(.eyebrow){font-size:16px;max-width:500px;line-height:1.6;margin-bottom:17px}.blog-card-link{margin-top:auto;font-size:15px;font-weight:600}
+.blog-index-cta{border-top:1px solid var(--line);padding-top:55px;padding-bottom:75px}.blog-index-cta p{max-width:600px}
+.blog-article-header{max-width:980px;text-align:center;padding-top:42px;padding-bottom:50px}.blog-article-header .back{text-align:left}.blog-article-header h1{font-size:clamp(40px,5vw,68px);letter-spacing:-2.3px;max-width:840px;margin-left:auto;margin-right:auto}.blog-deck{max-width:650px;margin:0 auto;font-size:22px;line-height:1.5}.blog-article-header .byline{margin-top:24px}.blog-article .answer{margin-bottom:50px}.blog-article .article-body{padding-bottom:80px}.blog-article .article-body section+section{margin-top:42px}.blog-article .article-body section h2{margin-top:0}.blog-article .article-body p{line-height:1.72}.related-posts{border-top:1px solid var(--line);margin-top:50px;padding-top:25px;display:flex;flex-direction:column;gap:13px}.related-posts h2{margin:0 0 6px;font-size:27px}.related-posts a{font-size:16px}
+@media(max-width:650px){.blog-intro{padding-top:50px;padding-bottom:35px}.blog-intro h1{font-size:52px}.blog-intro>p:last-child{font-size:19px}.blog-list{grid-template-columns:1fr;padding-top:5px;padding-bottom:50px}.blog-card{padding:27px 0 30px}.blog-card h2{font-size:26px}.blog-article-header{padding-top:28px;padding-bottom:30px}.blog-article-header h1{font-size:41px;letter-spacing:-1.5px}.blog-deck{font-size:19px}.blog-article .article-body{padding-bottom:55px}.blog-article .answer{margin-bottom:38px}}

@@ -62,3 +62,7 @@ Phone illustrations and app icon are copied, resized, and optimized from the Unp
 - Confirmed privacy and terms URLs redirect to working HTTPS pages (HTTP 200).
 
 Live custom-domain routing, HTTPS, and webmaster-tool submission still require deployment.
+
+## Blog
+
+The blog lives at `/blog/` and has ten original static articles under `/blog/<topic>/`. Each article has its own canonical URL, description, visible byline/date, BlogPosting data, related reading, and App Store link. Update the blog index, homepage link, and `sitemap.xml` when adding or removing a post. Product claims should be checked against the current App Store listing before updating articles. Search and AI answer inclusion are not guaranteed.
