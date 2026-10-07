@@ -1,0 +1,663 @@
+{
+  "source": "https://www.findfreetime.com/digital-detox-retreat-database.html",
+  "sourceDate": "2025-06-09",
+  "adaptedDate": "2026-10-07",
+  "retreats": [
+    {
+      "name": "Kripalu Center for Yoga & Health",
+      "originalName": "Kripalu Center for Yoga & Health",
+      "location": "Stockbridge, MA (Berkshires)",
+      "type": "Yoga + Meditation",
+      "duration": "Weekend to 1 week+",
+      "techNote2025": "Screen-free culture encouraged",
+      "description2025": "The largest yoga retreat center in North America, on 700 acres in the Berkshires. Phones aren't prohibited outright, but the culture strongly discourages them — no TVs in rooms, silent meals, a schedule that leaves no space for scrolling. Programs from weekend intensives to week-long trainings.",
+      "website": "https://kripalu.org",
+      "tags": [
+        "all",
+        "usa",
+        "northeast",
+        "massachusetts"
+      ]
+    },
+    {
+      "name": "Omega Institute for Holistic Studies",
+      "originalName": "Omega Institute for Holistic Studies",
+      "location": "Rhinebeck, NY (Hudson Valley)",
+      "type": "Holistic Learning",
+      "duration": "Weekend to 1 week",
+      "techNote2025": "Digital detox programs offered",
+      "description2025": "A 250-acre Hudson Valley campus that explicitly names disconnection as a program category. One of the most beginner-welcoming retreat centers in the country — no TVs, slow dining, evening talks. Open May through October.",
+      "website": "https://www.eomega.org",
+      "tags": [
+        "all",
+        "usa",
+        "northeast",
+        "new-york"
+      ]
+    },
+    {
+      "name": "Insight Meditation Society (IMS)",
+      "originalName": "Insight Meditation Society (IMS)",
+      "location": "Barre, MA",
+      "type": "Silent Vipassana",
+      "duration": "3 days to 3 months",
+      "techNote2025": "Phones and devices not permitted during retreats",
+      "description2025": "Founded in 1975 by Jack Kornfield, Sharon Salzberg, and Joseph Goldstein — one of the oldest and most respected vipassana centers in the West. Phones are collected at the start of every retreat. Donation-based (dana) pricing.",
+      "website": "https://www.dharma.org",
+      "tags": [
+        "all",
+        "usa",
+        "northeast",
+        "massachusetts"
+      ]
+    },
+    {
+      "name": "Sivananda Ashram Yoga Ranch",
+      "originalName": "Sivananda Ashram Yoga Ranch",
+      "location": "Woodbourne, NY (Catskills)",
+      "type": "Traditional Yoga Ashram",
+      "duration": "Weekend to several weeks",
+      "techNote2025": "No TVs or internet in rooms; phones strongly discouraged",
+      "description2025": "Classical ashram model: early morning meditation, twice-daily yoga, karma yoga, vegetarian meals. No WiFi in rooms, strong community expectation against phones. One of the most affordable residential retreat options in the Northeast.",
+      "website": "https://sivanandayogaranch.org/",
+      "tags": [
+        "all",
+        "usa",
+        "northeast",
+        "new-york"
+      ]
+    },
+    {
+      "name": "The Garrison Institute",
+      "originalName": "The Garrison Institute",
+      "location": "Garrison, NY (Hudson Valley)",
+      "type": "Contemplative Practice",
+      "duration": "Weekend to 5 days",
+      "techNote2025": "Screen-free common areas; minimal tech culture",
+      "description2025": "A 19th-century monastery above the Hudson River, converted into a retreat center for contemplative practice and social transformation. Stone floors, chapel spaces, and river views create a natural invitation to slow down. Common areas are phone-free by culture.",
+      "website": "https://www.garrisoninstitute.org",
+      "tags": [
+        "all",
+        "usa",
+        "northeast",
+        "new-york"
+      ]
+    },
+    {
+      "name": "Art of Living Retreat Center",
+      "originalName": "Art of Living Retreat Center",
+      "location": "Boone, NC (Blue Ridge Mountains)",
+      "type": "Breathwork + Yoga",
+      "duration": "Weekend to 1 week",
+      "techNote2025": "Tech-free zones throughout campus",
+      "description2025": "380 acres in the Blue Ridge Mountains at 3,000 feet. Focused on Sri Sri Ravi Shankar's SKY Breath Meditation practices. Designated tech-free zones throughout campus. Ayurvedic spa on site. Programs for beginners through advanced practitioners.",
+      "website": "https://www.artofliving.org",
+      "tags": [
+        "all",
+        "usa",
+        "southeast",
+        "north-carolina"
+      ]
+    },
+    {
+      "name": "Southern Dharma Retreat Center",
+      "originalName": "Southern Dharma Retreat Center",
+      "location": "Hot Springs, NC",
+      "type": "Silent Meditation",
+      "duration": "3 to 10 days",
+      "techNote2025": "Electronic devices not permitted during retreats",
+      "description2025": "A small, intimate center offering silent meditation retreats since 1978. Phones, e-readers, and laptops are not permitted. Simple dormitory or cabin accommodations, vegetarian meals. Teachers come from Theravada, Tibetan, Zen, and non-sectarian traditions.",
+      "website": "https://www.southerndharma.org",
+      "tags": [
+        "all",
+        "usa",
+        "southeast",
+        "north-carolina"
+      ]
+    },
+    {
+      "name": "Esalen Institute",
+      "originalName": "Esalen Institute",
+      "location": "Big Sur, CA",
+      "type": "Human Potential, Yoga, Bodywork",
+      "duration": "3 to 7 days",
+      "techNote2025": "Very limited cell service; screen-free culture",
+      "description2025": "Clinging to a cliff above the Pacific Ocean in Big Sur, with natural hot springs that flow into the sea. Limited cell service by geography, not just policy. Whatever program you attend, the location enforces the detox. Programs sell out months in advance.",
+      "website": "https://www.esalen.org",
+      "tags": [
+        "all",
+        "usa",
+        "california"
+      ]
+    },
+    {
+      "name": "1440 Multiversity",
+      "originalName": "1440 Multiversity",
+      "location": "Scotts Valley, CA (Santa Cruz Mountains)",
+      "type": "Mindfulness + Leadership",
+      "duration": "Weekend to 5 days",
+      "techNote2025": "Intentional digital disconnection; phone-free spaces",
+      "description2025": "Founded specifically for people who need a break from a hyper-connected world — its name comes from the number of minutes in a day. Popular with tech-industry professionals. Designated phone-free areas throughout the Santa Cruz Mountains campus.",
+      "website": "https://www.1440.org",
+      "tags": [
+        "all",
+        "usa",
+        "california"
+      ]
+    },
+    {
+      "name": "Spirit Rock Meditation Center",
+      "originalName": "Spirit Rock Meditation Center",
+      "location": "Woodacre, CA (Marin County)",
+      "type": "Silent Insight Meditation",
+      "duration": "1 day to 3 weeks",
+      "techNote2025": "Phones and devices surrendered during residential retreats",
+      "description2025": "West Coast counterpart to IMS in Barre — 411 rolling acres in a Marin County valley, teaching insight (vipassana) meditation since 1988. Phones collected at arrival for residential retreats. Teachers include Tara Brach, Jack Kornfield, and others. Donation-based.",
+      "website": "https://www.spiritrock.org",
+      "tags": [
+        "all",
+        "usa",
+        "california"
+      ]
+    },
+    {
+      "name": "Joshua Tree Retreat Center",
+      "originalName": "Joshua Tree Retreat Center",
+      "location": "Joshua Tree, CA",
+      "type": "Yoga + Desert Meditation",
+      "duration": "Weekend to 1 week",
+      "techNote2025": "Limited cell service; desert immersion culture",
+      "description2025": "In the high desert near Joshua Tree National Park, hosting programs since the 1940s. Minimal cell service and an otherworldly landscape create a natural tech detox. Yoga trainings, sound healing, and plant medicine integration retreats. The stargazing alone is worth the trip.",
+      "website": "https://jtre.org",
+      "tags": [
+        "all",
+        "usa",
+        "california"
+      ]
+    },
+    {
+      "name": "Breitenbush Hot Springs",
+      "originalName": "Breitenbush Hot Springs",
+      "location": "Detroit, OR (Cascade Range)",
+      "type": "Off-Grid Hot Springs + Yoga",
+      "duration": "Weekend to 1 week",
+      "techNote2025": "No cell service. No TVs. Worker-owned off-grid community.",
+      "description2025": "The most reliably disconnected retreat on this list — not by policy, but because there is no cell service in the Cascade Mountain valley it occupies. A worker-owned cooperative operating geothermally off the grid since the 1980s. Hot springs flow 24 hours. Yoga, meditation, holistic healing workshops offered seasonally.",
+      "website": "https://breitenbush.com",
+      "tags": [
+        "all",
+        "usa",
+        "pacific-northwest",
+        "oregon"
+      ]
+    },
+    {
+      "name": "Cloud Mountain Retreat Center",
+      "originalName": "Cloud Mountain Retreat Center",
+      "location": "Castle Rock, WA",
+      "type": "Silent Buddhist Retreats",
+      "duration": "3 to 10 days",
+      "techNote2025": "Electronic devices not used during retreats",
+      "description2025": "A small residential retreat center in southwestern Washington, offering silent meditation retreats since 1984 in the Theravada Buddhist tradition. Accommodates only 30-40 retreatants at a time — one of the more intimate options in the Pacific Northwest. Electronic devices not used during programs. Donation-based.",
+      "website": "https://cloudmountain.org",
+      "tags": [
+        "all",
+        "usa",
+        "pacific-northwest"
+      ]
+    },
+    {
+      "name": "Drala Mountain Center (formerly Shambhala Mountain Center)",
+      "originalName": "Shambhala Mountain Center",
+      "location": "Red Feather Lakes, CO",
+      "type": "Tibetan Buddhist Practice",
+      "duration": "Weekend to 3 months",
+      "techNote2025": "Phone-free meditation halls; tech-minimal environment",
+      "description2025": "600 acres in the Colorado Rockies at 8,500 feet, home to the Great Stupa of Dharmakaya. Programs include Shambhala training, week-long sittings (weekthun), and month-long retreats (dathün). Meditation halls and common spaces are phone-free.",
+      "website": "https://www.dralamountain.org/",
+      "tags": [
+        "all",
+        "usa",
+        "mountain-southwest",
+        "colorado"
+      ]
+    },
+    {
+      "name": "Tara Mandala Retreat Center",
+      "originalName": "Tara Mandala Retreat Center",
+      "location": "Pagosa Springs, CO",
+      "type": "Tibetan Buddhist Retreats",
+      "duration": "Weekend to several weeks",
+      "techNote2025": "Remote mountain setting; minimal connectivity",
+      "description2025": "Founded by Lama Tsultrim Allione, 700 acres in the San Juan Mountains. Emphasis on serious Vajrayana practice: dakini empowerments, chod practice. Remote high-altitude setting means connectivity is limited by circumstance as much as by culture.",
+      "website": "https://taramandala.org",
+      "tags": [
+        "all",
+        "usa",
+        "mountain-southwest",
+        "colorado"
+      ]
+    },
+    {
+      "name": "Upaya Zen Center",
+      "originalName": "Upaya Zen Center",
+      "location": "Santa Fe, NM",
+      "type": "Zen Buddhism + Social Engagement",
+      "duration": "Weekend to 1 month",
+      "techNote2025": "Phones not used during silent and residential retreats",
+      "description2025": "Founded by Roshi Joan Halifax, a Zen Buddhist temple in the foothills above Santa Fe. Blends contemplative practice with social engagement — death and dying work, environmental activism, prison dharma. Silent sesshins held throughout the year; phones not used. Adobe campus surrounded by piñon and juniper.",
+      "website": "https://www.upaya.org",
+      "tags": [
+        "all",
+        "usa",
+        "mountain-southwest"
+      ]
+    },
+    {
+      "name": "Miraval Arizona Resort & Spa",
+      "originalName": "Miraval Arizona Resort & Spa",
+      "location": "Tucson, AZ",
+      "type": "Luxury Wellness Resort",
+      "duration": "3 to 7 nights",
+      "techNote2025": "Phone-free policy in all common areas",
+      "description2025": "The high-end option on this list — an all-inclusive wellness resort with an explicit phone-free policy in shared spaces. Programming includes equine therapy, meditation, and life balance workshops. Phones allowed in rooms, but the culture makes you want to leave it there. Set against the Santa Catalina Mountains north of Tucson.",
+      "website": "https://www.miravalresorts.com",
+      "tags": [
+        "all",
+        "usa",
+        "mountain-southwest",
+        "arizona"
+      ]
+    },
+    {
+      "name": "Feathered Pipe Ranch",
+      "originalName": "Feathered Pipe Ranch",
+      "location": "Helena, MT",
+      "type": "Summer Yoga Retreats",
+      "duration": "5 to 7 days",
+      "techNote2025": "Remote mountain setting; minimal connectivity; screen-free culture",
+      "description2025": "Running yoga retreats in the Montana Rockies since 1975, hosted by teachers including B.K.S. Iyengar, Ram Dass, and Pema Chödrön historically. 110-acre property at 5,000 feet with a private lake and glacier-carved landscape. Summer programs only. Genuinely unplugged culture.",
+      "website": "https://www.featheredpipe.com",
+      "tags": [
+        "all",
+        "usa",
+        "mountain-southwest"
+      ]
+    },
+    {
+      "name": "Plum Village",
+      "originalName": "Plum Village",
+      "location": "Thenac, Dordogne (near Bordeaux)",
+      "type": "Zen / Mindfulness",
+      "duration": "1–3 weeks",
+      "techNote2025": "Phones not used during retreat periods — Noble Silence",
+      "description2025": "The most internationally recognized Buddhist retreat center in Europe, founded by Thich Nhat Hanh in 1982. Three monasteries in the Dordogne countryside, drawing practitioners from 90+ countries. Noble Silence maintained throughout. Retreat weeks from around €500-700.",
+      "website": "https://plumvillage.org",
+      "tags": [
+        "all",
+        "europe",
+        "france"
+      ]
+    },
+    {
+      "name": "Centre Lerab Ling",
+      "originalName": "Centre Lerab Ling",
+      "location": "Roqueredonde, Hérault (near Montpellier)",
+      "type": "☸️ Tibetan Buddhist (Rigpa)",
+      "duration": "Weekend to 1 week+",
+      "techNote2025": "Phone-free during all programs",
+      "description2025": "Rigpa's main European retreat center in the limestone hills of southern France. Large Tibetan shrine hall consecrated by the Dalai Lama. Remote Languedoc setting makes digital disconnection feel effortless. Programs range from short retreats to major annual teaching events.",
+      "website": "https://lerabling.org",
+      "tags": [
+        "all",
+        "europe",
+        "france"
+      ]
+    },
+    {
+      "name": "Amaravati Buddhist Monastery",
+      "originalName": "Amaravati Buddhist Monastery",
+      "location": "Great Gaddesden, Hertfordshire (~40 miles from London)",
+      "type": "Thai Forest / Theravada",
+      "duration": "5–10 days",
+      "techNote2025": "Phones collected at arrival — Noble Silence",
+      "description2025": "A fully residential Thai Forest monastery founded in 1984. Phones collected at arrival, Noble Silence throughout. One of the most beginner-welcoming silent retreat centers in England. Offered on a dana (donation) basis — one of the most financially accessible options in Europe.",
+      "website": "https://www.amaravati.org",
+      "tags": [
+        "all",
+        "europe",
+        "england"
+      ]
+    },
+    {
+      "name": "Gaia House",
+      "originalName": "Gaia House",
+      "location": "West Ogwell, Devon (~3 hours from London)",
+      "type": "Insight Meditation / Vipassana",
+      "duration": "2 days to 1 month",
+      "techNote2025": "Phones collected at retreat start — Noble Silence throughout",
+      "description2025": "England's most established Western insight meditation center, in the countryside near Newton Abbot, Devon. Phones collected at start of every retreat. Lineage follows IMS (Barre, MA). Retreats from 2-day weekends to month-long programs, many welcoming beginners.",
+      "website": "https://gaiahouse.co.uk",
+      "tags": [
+        "all",
+        "europe",
+        "england"
+      ]
+    },
+    {
+      "name": "The Sharpham Trust",
+      "originalName": "Sharpham House & Sharpham Trust",
+      "location": "Ashprington, near Totnes, Devon",
+      "type": "Mindfulness-based",
+      "duration": "Weekend to 1 week",
+      "techNote2025": "Screens and devices strongly discouraged during retreats",
+      "description2025": "An 18th-century Palladian manor on the River Dart near Totnes. Programs from silent mindfulness intensives to creative and movement-based retreats. Located 15-20 minutes from Gaia House — Devon's remarkable retreat cluster. The Dart estuary setting naturally reinforces disconnection.",
+      "website": "https://www.sharphamtrust.org/",
+      "tags": [
+        "all",
+        "europe",
+        "england"
+      ]
+    },
+    {
+      "name": "Samye Ling Tibetan Centre",
+      "originalName": "Samye Ling Tibetan Centre",
+      "location": "Eskdalemuir, Dumfries & Galloway, Scotland",
+      "type": "☸️ Tibetan Buddhist (Kagyu)",
+      "duration": "Weekend to extended",
+      "techNote2025": "Phone-free during retreat programs",
+      "description2025": "The first Tibetan Buddhist center established in the Western world (founded 1967). Considered the largest Buddhist monastery in Western Europe, with an ornate Tibetan temple in the remote Scottish hills. Phone-free during organized programs. About 1.5 hours from Glasgow or Edinburgh by car.",
+      "website": "https://www.samyeling.org",
+      "tags": [
+        "all",
+        "europe",
+        "england"
+      ]
+    },
+    {
+      "name": "Dzogchen Beara",
+      "originalName": "Dzogchen Beara",
+      "location": "Allihies, Beara Peninsula, County Cork",
+      "type": "☸️ Tibetan Buddhist (Rigpa / Dzogchen)",
+      "duration": "Weekend to 1 week+",
+      "techNote2025": "Devices not used during retreat programs",
+      "description2025": "Perched on the cliffs of the Beara Peninsula overlooking the Atlantic — one of the most strikingly located retreat centers in Europe. Part of the Rigpa organization. Programs include organized retreat weeks and personal retreat accommodation. About 2.5 hours from Cork Airport.",
+      "website": "https://dzogchenbeara.org",
+      "tags": [
+        "all",
+        "europe",
+        "ireland"
+      ]
+    },
+    {
+      "name": "Sakya Tashi Ling",
+      "originalName": "Sakya Tashi Ling",
+      "location": "Garraf Natural Park, near Barcelona, Catalonia",
+      "type": "☸️ Tibetan Buddhist (Sakya)",
+      "duration": "Weekend to extended",
+      "techNote2025": "Phone-free during retreat programs",
+      "description2025": "A significant Tibetan Buddhist monastery in the Garraf Natural Park near Olivella, about 40 km southwest of Barcelona. Striking Himalayan architecture in a Mediterranean limestone landscape. Programs in Catalan, Spanish, and English. Accessible from Barcelona El Prat Airport in about 45 minutes.",
+      "website": "https://monjesbudistas.org/en/",
+      "tags": [
+        "all",
+        "europe",
+        "spain"
+      ]
+    },
+    {
+      "name": "Suryalila Retreat Center",
+      "originalName": "Suryalila Retreat Center",
+      "location": "Cadiz province, Andalusia",
+      "type": "Yoga / Wellness",
+      "duration": "1–3 weeks",
+      "techNote2025": "Screen-minimal yoga retreat culture",
+      "description2025": "A yoga retreat center in the hills of Cadiz province near the Sierra de Grazalema Natural Park. Known for Jivamukti and alignment-based yoga teacher trainings. All programs in English, drawing international participants. The Andalusian landscape (olive groves, white villages, mountains) reinforces the disconnection.",
+      "website": "https://suryalila.com",
+      "tags": [
+        "all",
+        "europe",
+        "spain"
+      ]
+    },
+    {
+      "name": "Osho Miasto",
+      "originalName": "Osho Miasto",
+      "location": "Pomarance, near Volterra, Province of Pisa, Tuscany",
+      "type": "Osho / Active Meditation",
+      "duration": "Weekend to extended",
+      "techNote2025": "Screen-minimal during programs",
+      "description2025": "An Osho meditation community in the Tuscan hills near Volterra, combining silent sitting and active meditation (Dynamic Meditation, Kundalini) with bodywork and expressive arts. International programs in English. The Tuscan landscape and immersive community schedule create a naturally screen-minimal environment.",
+      "website": "https://www.oshomiasto.it",
+      "tags": [
+        "all",
+        "europe",
+        "italy"
+      ]
+    },
+    {
+      "name": "Istituto Lama Tzong Khapa (ILTK)",
+      "originalName": "Istituto Lama Tzong Khapa (ILTK)",
+      "location": "Pomaia, near Pisa, Tuscany",
+      "type": "☸️ Tibetan Buddhist (FPMT / Gelug)",
+      "duration": "Weekend to multi-year residential",
+      "techNote2025": "Phone-free during retreat periods",
+      "description2025": "Founded in 1977, part of FPMT. One of the most respected Tibetan Buddhist study and practice centers in Europe, with a resident monastic community in the Tuscan hills south of Pisa. Offers everything from beginner introductions to multi-year study programs. About 1 hour from Pisa Airport.",
+      "website": "https://www.iltk.org",
+      "tags": [
+        "all",
+        "europe",
+        "italy"
+      ]
+    },
+    {
+      "name": "Suan Mokkh International Dharma Hermitage",
+      "originalName": "Suan Mokkh International Dharma Hermitage",
+      "location": "Chaiya, Suratthani Province",
+      "type": "Theravada Buddhist / Vipassana",
+      "duration": "10 days (monthly)",
+      "techNote2025": "Phones surrendered at arrival — Noble Silence throughout",
+      "description2025": "Monthly 10-day donation-based silent retreats in a forest garden. One of the most established and affordable silent retreats in Asia — draws practitioners from 50+ countries each month. Phones collected on arrival.",
+      "website": "https://www.suanmokkh-idh.org",
+      "tags": [
+        "all",
+        "southeast-asia",
+        "thailand"
+      ]
+    },
+    {
+      "name": "Samahita Retreat",
+      "originalName": "Samahita Retreat",
+      "location": "Koh Samui, Surat Thani Province",
+      "type": "Yoga / Vipassana",
+      "duration": "4–14 days",
+      "techNote2025": "Screen-minimal; dedicated digital detox programs",
+      "description2025": "Clifftop yoga and vipassana retreat on the south side of Koh Samui overlooking the Gulf of Thailand. Programs in English. Dedicated digital detox offerings alongside yoga immersions and vipassana retreats.",
+      "website": "https://samahitaretreat.com/",
+      "tags": [
+        "all",
+        "southeast-asia",
+        "thailand"
+      ]
+    },
+    {
+      "name": "The Yoga Barn",
+      "originalName": "The Yoga Barn",
+      "location": "Ubud, Bali",
+      "type": "Yoga / Holistic Wellness",
+      "duration": "Day classes to multi-week programs",
+      "techNote2025": "Phone-minimal culture; screen-free common areas",
+      "description2025": "Ubud's most established yoga center, set among rice paddies. Multiple daily classes, healer's corner, organic café. Drop-in classes welcome. Retreat programs up to multi-week teacher trainings. Genuinely phone-minimal by culture.",
+      "website": "https://www.theyogabarn.com",
+      "tags": [
+        "all",
+        "southeast-asia",
+        "bali"
+      ]
+    },
+    {
+      "name": "COMO Shambhala Estate",
+      "originalName": "COMO Shambhala Estate",
+      "location": "Above Ubud, Bali",
+      "type": "Luxury Wellness / Ayurvedic",
+      "duration": "3–7+ nights",
+      "techNote2025": "Screen-minimal spa and program culture throughout",
+      "description2025": "Luxury wellness estate above the Ayung River gorge. Ayurvedic programs, yoga, meditation, and spa in a deeply mindful jungle setting. Considered one of Asia's most respected wellness retreats. Phone-minimal by culture.",
+      "website": "https://www.comohotels.com/como-shambhala-estate",
+      "tags": [
+        "all",
+        "southeast-asia",
+        "bali"
+      ]
+    },
+    {
+      "name": "Fivelements",
+      "originalName": "Fivelements",
+      "location": "Mambal, near Ubud, Bali",
+      "type": "Balinese Healing / Eco-Luxury",
+      "duration": "3–14 nights",
+      "techNote2025": "Eco-retreat culture; screen-minimal throughout",
+      "description2025": "Eco-luxury retreat on the Ayung River designed as a traditional Balinese water palace. Balinese healing traditions, plant-based cuisine, sound healing, yoga. Bamboo pavilions, river soundscapes, ceremonial incense — a natural container for stepping away from screens.",
+      "website": "https://www.fivelements.com",
+      "tags": [
+        "all",
+        "southeast-asia",
+        "bali"
+      ]
+    },
+    {
+      "name": "Tushita Meditation Centre",
+      "originalName": "Tushita Meditation Centre",
+      "location": "McLeod Ganj, Dharamshala, Himachal Pradesh",
+      "type": "☸️ Tibetan Buddhist (FPMT)",
+      "duration": "10-day courses; shorter retreats",
+      "techNote2025": "Phones not permitted during retreat courses",
+      "description2025": "FPMT Tibetan Buddhist center in the forest above McLeod Ganj, 2km from the Dalai Lama's monastery. The 10-day Introduction to Buddhism course is one of Asia's most popular retreat programs for international visitors. Phones not used during courses. Donation-based.",
+      "website": "https://tushita.info",
+      "tags": [
+        "all",
+        "asia",
+        "india"
+      ]
+    },
+    {
+      "name": "Parmarth Niketan Ashram",
+      "originalName": "Parmarth Niketan Ashram",
+      "location": "Rishikesh, Uttarakhand (Ganges riverbank)",
+      "type": "🕉️ Hindu Ashram / Yoga",
+      "duration": "Day visits to extended stays",
+      "techNote2025": "Phone-minimal; Ganga Aarti creates phone-free culture by nature",
+      "description2025": "One of the largest and most respected ashrams on the Ganges in Rishikesh. Daily yoga, meditation, Vedic chanting, and the famous dawn and dusk Ganga Aarti fire ceremony. International visitors welcome. Programs in English and Hindi.",
+      "website": "https://www.parmarth.org",
+      "tags": [
+        "all",
+        "asia",
+        "india"
+      ]
+    },
+    {
+      "name": "Ananda in the Himalayas",
+      "originalName": "Ananda in the Himalayas",
+      "location": "Narendra Nagar, Uttarakhand (above Rishikesh)",
+      "type": "Luxury Ayurvedic Wellness",
+      "duration": "3–21+ nights",
+      "techNote2025": "Phone-minimal; screen-free spa and program spaces",
+      "description2025": "Luxury Ayurvedic retreat in a restored Maharaja's palace above the Ganges valley. One of the world's leading Ayurvedic wellness resorts, integrating Ayurveda, yoga, and Vedanta philosophy. Phone-minimal throughout; screen-free program and spa spaces.",
+      "website": "https://www.anandaspa.com",
+      "tags": [
+        "all",
+        "asia",
+        "india"
+      ]
+    },
+    {
+      "name": "Koyasan (Kōya-san) Temple Town",
+      "originalName": "Koyasan (Kōya-san) Temple Town",
+      "location": "Koya, Wakayama Prefecture (Mt. Koya, 1,000m)",
+      "type": "⛩️ Shingon Buddhist (shukubo/temple lodging)",
+      "duration": "1–3 nights",
+      "techNote2025": "Temple culture; phones not used during morning ceremonies",
+      "description2025": "UNESCO World Heritage sacred mountain town — center of Shingon Buddhism since 816 AD. Over 100 temples offer shukubo (temple lodging) with vegetarian meals and morning ceremonies. Accessible from Osaka by train + cable car (~1.5 hours). Naturally screen-minimal by atmosphere.",
+      "website": "https://www.koyasan.or.jp",
+      "tags": [
+        "all",
+        "asia",
+        "japan"
+      ]
+    },
+    {
+      "name": "Shunkoin Temple Zen Retreat",
+      "originalName": "Shunkoin Temple Zen Retreat",
+      "location": "Myoshinji Complex, Kyoto",
+      "type": "☯️ Rinzai Zen Buddhism",
+      "duration": "Half-day to 3-night programs",
+      "techNote2025": "Phone-free during all meditation sessions",
+      "description2025": "Sub-temple within Kyoto's largest Zen complex (47 temples, 35 acres). English-language Zen meditation programs and mindfulness workshops for international visitors. One of the most accessible entry points to Zen practice in Japan. 15 minutes from Kyoto Station by bus.",
+      "website": "https://shunkoin.com",
+      "tags": [
+        "all",
+        "asia",
+        "japan"
+      ]
+    },
+    {
+      "name": "Kopan Monastery",
+      "originalName": "Kopan Monastery",
+      "location": "Kapan, Kathmandu Valley (7km from Thamel)",
+      "type": "☸️ Tibetan Buddhist (FPMT)",
+      "duration": "10-day monthly courses",
+      "techNote2025": "Phones not used during retreat courses",
+      "description2025": "FPMT Tibetan Buddhist monastery on a hilltop overlooking Kathmandu and Boudhanath Stupa. Monthly 10-day lamrim (graduated path) meditation courses for beginners — among the most popular structured retreat programs in Nepal. Phones not used during courses. Views of the Himalayas on clear days.",
+      "website": "https://kopanmonastery.com",
+      "tags": [
+        "all",
+        "asia",
+        "nepal"
+      ]
+    },
+    {
+      "name": "Nilambe Buddhist Meditation Centre",
+      "originalName": "Nilambe Buddhist Meditation Centre",
+      "location": "Nilambe, near Kandy, Central Province",
+      "type": "Non-sectarian Theravada",
+      "duration": "Weekend to 2 weeks",
+      "techNote2025": "No electronic devices during retreats — Noble Silence",
+      "description2025": "Simple, donation-based retreat center in the tea-country hills above Kandy, operating since the 1970s. Electronic devices not used during retreats. Very basic accommodation. One of the most authentic and financially accessible retreat experiences in South Asia. About 30 minutes from Kandy by car.",
+      "website": "https://nilambe.lk/",
+      "tags": [
+        "all",
+        "asia",
+        "sri-lanka"
+      ]
+    },
+    {
+      "name": "Willka T'ika",
+      "originalName": "Willka T'ika",
+      "location": "Urubamba, Sacred Valley of the Incas",
+      "type": "🌄 Andean Healing / Yoga",
+      "duration": "5–14 day programs",
+      "techNote2025": "Screen-minimal; Andean landscape commands full attention",
+      "description2025": "Award-winning retreat center in the Sacred Valley between Cusco and Machu Picchu, with seven Andean chakra gardens and views of snowcapped peaks. Programs blend yoga, meditation, and Andean healing traditions. English-language programs. At 2,800m elevation, the altitude and landscape create a naturally screen-minimal environment.",
+      "website": "https://www.willkatika.com",
+      "tags": [
+        "all",
+        "south-america",
+        "peru"
+      ]
+    },
+    {
+      "name": "Yachana Lodge",
+      "originalName": "Yachana Lodge",
+      "location": "Amazon jungle, Napo Province (near Tena)",
+      "type": "Amazon Eco-Lodge / Community Retreat",
+      "duration": "3–7+ nights",
+      "techNote2025": "No cell service in the Amazon jungle — tech-free by geography",
+      "description2025": "Eco-lodge deep in the Ecuadorian Amazon, accessible only by motorized canoe. No cell service by geography — not by policy. Guided jungle walks, indigenous community visits, canoe expeditions. Profits support local community development. About 3 hours from Quito by road + canoe.",
+      "website": "https://www.yachana.com",
+      "tags": [
+        "all",
+        "south-america",
+        "ecuador"
+      ]
+    }
+  ]
+}
