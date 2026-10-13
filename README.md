@@ -71,3 +71,5 @@ The blog lives at `/blog/` and has ten original static articles under `/blog/<to
 ## Resources
 
 The `/resources/` hub links to a U.S. retreat guide, a searchable 43-center directory, and an eight-tool screen time app comparison. The retreat directory's editable source data is `data/retreats.json`; its visible cards are pre-rendered in HTML for crawling and no-JavaScript use. `assets/retreat-finder.js` filters those cards in the browser. The directory adapts Free Time's June 2025 list; the changed names and broken destination links were updated October 7, 2026. Phone policies, program availability, and pricing should be reviewed directly with each center before future content updates. The comparison intentionally omits volatile prices and links to vendor sources for current details.
+
+The About page identifies Nicole Kelner as founder and links her LinkedIn profile and the official App Store listing (ID 6791308579).
